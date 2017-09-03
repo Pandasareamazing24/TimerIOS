@@ -1,2 +1,3 @@
 # TimerIOS
-IOS app that provides a timer
+Basic IOS app that provides a timer
+
